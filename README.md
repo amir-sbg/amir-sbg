@@ -3,9 +3,10 @@
 
 ## Languages & Technologies
 <p align="center"> 
-my name is amir, im student of cumputer engineering at 
+<h2>my name is amir, im student of cumputer engineering at 
   <a href='https://aut.ac.ir/en'>amirkabir university of tecnnology </a>
-</p>
+</h2>
+  </p>
 
 
 [![](https://img.shields.io/badge/-python3-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
@@ -36,8 +37,9 @@ Here are some ideas to get you started:
 ## Statistics
 
 <p align="center">
+  <img src="  https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=solarized_dark" alt="amir-sbg's GitHub stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=solarized_dark" alt="amir-sbg's GitHub stats"/><br/>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+ 
 </p>
 
 
