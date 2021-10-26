@@ -3,9 +3,9 @@
 
 ## About me
 <p align="center"> 
-<h5> my name is amir, im student of cumputer engineering at 
-  <a href='https://aut.ac.ir/en'>amirkabir university of tecnnology </a>
-</h5>
+<h4> my name is amir, im student of computer engineering at 
+  <a href='https://aut.ac.ir/en'>amirkabir university of technology </a>
+</h4>
   </p>
   
 ## Languages & Technologies
