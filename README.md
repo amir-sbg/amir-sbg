@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-sbg&theme=dracula)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani"/><br/>
+</p>
  
 
 ## Statistics
