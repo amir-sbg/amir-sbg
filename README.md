@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 
   <p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani's GitHub stats"/><br/>
-    
+   
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani's GitHub stats"/>
   </p>
   
 
@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani"/><br/>
    <img src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=solarized_dark" alt="Amir Sabbagh Ziarani's GitHub stats"/><br/>
-  
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani's GitHub stats"/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani's GitHub stats"/><br/>
+<br/>
 </p>
 
 
