@@ -29,13 +29,15 @@ Here are some ideas to get you started:
 
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani"/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani"/><br/>
   </p>
   
 
 ## Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=dracula" alt="amir-sbg's GitHub stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=solarized_dark" alt="amir-sbg's GitHub stats"/><br/>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
 </p>
+
 
