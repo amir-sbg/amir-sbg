@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=dracula" alt="Amirreza Naziri's GitHub stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=solarized_dark" alt="Amir Sabbagh Ziarani's GitHub stats"/><br/>
 </p>
 
