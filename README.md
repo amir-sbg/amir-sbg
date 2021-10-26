@@ -37,12 +37,11 @@ Here are some ideas to get you started:
 ## Statistics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-sbg&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=solarized_dark)
-<!--
+
+
 <p align="center">
   <img src="  https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=solarized_dark" alt="amir-sbg's GitHub stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=solarized_dark" alt="amir-sbg's GitHub stats"/><br/>
  
 </p>
--->
+
 
