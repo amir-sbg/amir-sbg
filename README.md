@@ -3,9 +3,9 @@
 
 ## Languages & Technologies
 <p align="center"> 
-<h2>my name is amir, im student of cumputer engineering at 
+<h3>my name is amir, im student of cumputer engineering at 
   <a href='https://aut.ac.ir/en'>amirkabir university of tecnnology </a>
-</h2>
+</h3>
   </p>
 
 
@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="  https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=solarized_dark" alt="amir-sbg's GitHub stats"/><br/>
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=dracula" alt="Amirreza Naziri's GitHub stats"/><br/>
 </p>
-
 
