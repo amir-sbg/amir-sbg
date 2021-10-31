@@ -1,9 +1,9 @@
 
-### 👋😄 Hi 
+### 👋😄 Hi there
 
 ## 🙋‍♂️About me
 <p align="center"> 
-<h3> my name is amir, im student of computer engineering at 
+<h3> im Amir, im student of computer engineering at 
   <a href='https://aut.ac.ir/en'>amirkabir university of technology </a>
 </h3>
   </p>
