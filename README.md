@@ -3,8 +3,8 @@
 
 ## 🙋‍♂️About me
 <p align="center"> 
-<h3> im Amir, im student of computer engineering at 
-  <a href='https://aut.ac.ir/en'>amirkabir university of technology </a>
+<h3> Im Amir, a student of Computer Engineering at 
+  <a href='https://aut.ac.ir/en'>Amirkabir University of Technology (Tehran Polytechnic) </a>
 </h3>
   </p>
   
