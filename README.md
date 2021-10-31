@@ -3,15 +3,15 @@
 
 ## 🙋‍♂️About me
 <p align="center"> 
-<h4> my name is amir, im student of computer engineering at 
+<h3> my name is amir, im student of computer engineering at 
   <a href='https://aut.ac.ir/en'>amirkabir university of technology </a>
-</h4>
+</h3>
   </p>
   
 ## 🙇Languages & Technologies
 [![](https://img.shields.io/badge/-python3-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
-[![](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+[![](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java)](https://en.wikipedia.org/wiki/C_%28programming_language%29) ...
 
 <!--
 **amir-sbg/amir-sbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
