@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 ## Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani"/>
+  <img width="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani"/>
  </div>
  
 <div align="center" style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani's GitHub stats"/>
+  <img width="150em" src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/>
+ <img width="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/>
 </div>
 
   ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
