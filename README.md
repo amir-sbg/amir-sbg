@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: inline_block">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-sbg&layout=compact&langs_count=7&theme=dracula" alt="Amir Sabbagh Ziarani"/><br/>
+<div align="center" style="display: inline_block">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-sbg&layout=compact&langs_count=7&theme=dracula" alt="Amir Sabbagh Ziarani"/>
 </div>
  
 
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani"/><br/>
  </div>
  
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   <img src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani's GitHub stats"/><br/>
+ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani's GitHub stats"/><br/> -->
 </div>
 
   ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
