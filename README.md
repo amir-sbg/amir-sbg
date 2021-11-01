@@ -29,20 +29,20 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" style="display: inline_block">
-  <img  height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-sbg&layout=compact&langs_count=7&theme=dracula" alt="Amir Sabbagh Ziarani"/>
+  <img  height="180em" width="350em"  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani"/>
+  <img  height="180em" width="350em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-sbg&layout=compact&langs_count=7&theme=dracula" alt="Amir Sabbagh Ziarani"/>
 </div>
  
 
 ## Statistics
 
 <div align="center">
-  <img width="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani"/>
+  <img height="180em" width="700em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani"/>
  </div>
  
 <div align="center" style="display: inline_block">
-  <img width="150em" src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/>
- <img width="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/>
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/>
+ <img height="180em" width="350em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/>
 </div>
 
   ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
