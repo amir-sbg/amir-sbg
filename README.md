@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenny&layout=compact&langs_count=7&theme=dracula" alt="Amir Sabbagh Ziarani"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-sbg&layout=compact&langs_count=7&theme=dracula" alt="Amir Sabbagh Ziarani"/><br/>
 </div>
  
 
