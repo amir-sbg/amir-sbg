@@ -1,6 +1,13 @@
 
 ### 👋😄 Hi there
 
+
+
+<p align="center"  >  
+  <img src="https://cdn2.scratch.mit.edu/get_image/gallery/30162719_170x100.png" alt="Cloud" width="500" height="300">
+ </p>
+
+
 ## 🙋‍♂️About me
 <p align="center"> 
 <h3> Im Amir, a student of Computer Engineering at 
@@ -34,7 +41,7 @@ Here are some ideas to get you started:
 </div>
  
 
-## Statistics
+## ✅Statistics
 
 <div align="center">
   <img height="180em" width="700em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-sbg&theme=solarized_dark" alt="Amir Sabbagh Ziarani"/>
