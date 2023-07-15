@@ -1,13 +1,15 @@
 
 
 ## About me
+
 <p align="left"> 
 <h3> BSc of Computer Engineering from 
   <a href='https://aut.ac.ir/en'>Amirkabir University of Technology (Tehran Polytechnic) </a>
 </h3>
   </p>
-<h2>I'm interested in:</h2>
 
+ ## Research Interests
+<p align="left"> 
 <ul>
   <li>Machine Learning</li>
   <li>Computer Vision</li>
@@ -15,7 +17,7 @@
 </ul> 
   </p>
 
-<!--
+
 ## Skills
 [![](https://img.shields.io/badge/-python3-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
@@ -52,9 +54,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/>
 <!-- <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/> -->
 </div>
-
+-->
+<!--
 ## 😄Fun but Insipid 
 
   ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
-
 -->
+
