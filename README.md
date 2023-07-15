@@ -17,7 +17,7 @@
 </ul> 
   </p>
 
-
+<!--
 ## Skills
 [![](https://img.shields.io/badge/-python3-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
