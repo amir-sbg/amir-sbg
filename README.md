@@ -1,26 +1,27 @@
 
-### 👋😄 Hi there
 
-
-
-<p align="center"  >  
-  <img src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" alt="Me" width="500" height="300">
- </p>
-
-
-## 🙋‍♂️About me
-<p align="center"> 
-<h3> Im Amir, a student of Computer Engineering at 
+## About me
+<p align="left"> 
+<h3> BSc of Computer Engineering from 
   <a href='https://aut.ac.ir/en'>Amirkabir University of Technology (Tehran Polytechnic) </a>
 </h3>
   </p>
-  
-## 🙇Languages & Technologies
+<h2>I'm interested in:</h2>
+
+<ul>
+  <li>Machine Learning</li>
+  <li>Computer Vision</li>
+  <li>Data Science</li>
+</ul> 
+  </p>
+
+<!--
+## Skills
 [![](https://img.shields.io/badge/-python3-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 [![](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java)](https://en.wikipedia.org/wiki/C_%28programming_language%29) ...
 
-<!--
+
 **amir-sbg/amir-sbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <div align="center" style="display: inline_block">
   <img  height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani"/>
@@ -56,3 +57,4 @@ Here are some ideas to get you started:
 
   ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
 
+-->
