@@ -3,7 +3,7 @@
 ## About me
 
 <p align="left"> 
-<h3> BSc of Computer Engineering from 
+<h3>Hello, I am Amir Sabbagh-Ziarani, a B.Sc. graduate in Computer Engineering from 
   <a href='https://aut.ac.ir/en'>Amirkabir University of Technology (Tehran Polytechnic) </a>
 </h3>
   </p>
@@ -11,9 +11,9 @@
  ## Research Interests
 <p align="left"> 
 <ul>
-  <li>Machine Learning</li>
-  <li>Computer Vision</li>
-  <li>Data Science</li>
+  <li>✅ Machine Learning</li>
+  <li>✅ Deep Learning</li>
+  <li>✅ Computer Vision</li>
 </ul> 
   </p>
 
@@ -52,12 +52,8 @@ Here are some ideas to get you started:
  
 <div align="center" style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amir-sbg&show_icons=true&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/>
-<!-- <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/> -->
+<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amir-sbg&theme=dracula" alt="Amir Sabbagh Ziarani's GitHub stats"/>
 </div>
 -->
-<!--
-## 😄Fun but Insipid 
 
-  ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
--->
 
