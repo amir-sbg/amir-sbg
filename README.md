@@ -4,8 +4,11 @@
 
 <p align="left"> 
 <h3>Hello, I am Amir Sabbagh-Ziarani, a B.Sc. graduate in Computer Engineering from 
-  <a href='https://aut.ac.ir/en'>Amirkabir University of Technology (Tehran Polytechnic) </a>
+  <a href='https://aut.ac.ir/en'>Amirkabir University of Technology (Tehran Polytechnic). </a>
 </h3>
+<h4>
+My research Interests are Machine Learning, Deep Learning, and Computer Vision. I'm passionate about exploring the theoretical foundations and practical applications of these cutting-edge technologies across diverse fields.
+</h4>
   </p>
 
  ## Research Interests
